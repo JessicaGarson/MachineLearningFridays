@@ -13,12 +13,12 @@ Start small. Often people ask me how to get started and I have the following adv
 ##Articles 
 Here are a few articles to get you started that discuss the current state of field and introduce some key concepts: 
 
-[Building and deploying large-scale machine learning pipelines](http://radar.oreilly.com/2015/01/building-and-deploying-large-scale-machine-learning-pipelines.html)
-[How to Start Thinking Like a Data Scientist](https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/)
-[Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
+[Building and deploying large-scale machine learning pipelines](http://radar.oreilly.com/2015/01/building-and-deploying-large-scale-machine-learning-pipelines.html),
+[How to Start Thinking Like a Data Scientist](https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/),
+[Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext), and
 [The qualities companies consider when hiring data scientists](http://mashable.com/2015/02/01/big-data-scientist-jobs/)
 
 ##Statistics
 Statistics is the first step of the puzzle to being a good data scientist. It's the first place you should get started 
-[Khan Academy - Probability](https://www.khanacademy.org/math/probability)
+[Khan Academy - Probability](https://www.khanacademy.org/math/probability), and 
 [Getting Started with Statistics Concepts](http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts)
