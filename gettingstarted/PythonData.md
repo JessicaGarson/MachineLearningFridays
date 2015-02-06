@@ -4,4 +4,4 @@ You will want to download the [Anaconda python distribution](http://continuum.io
 
 Download and install as appropriate for your system.
 
-I use Python 2.7x (rather than 3.x) personally because there seems to be a greater communuity around 
+I use Python 2.7x (rather than 3.x) personally because there seems to be a greater communuity around it.
