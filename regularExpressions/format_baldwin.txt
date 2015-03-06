@@ -1,0 +1,7 @@
+First look for patterns:
+
+Let's get rid of what we don't need first.
+
+How do we get rid of all the heading stuff?
+^\bNAME HEADING CANVASS\b.*\n.*\n.*\n.*
+

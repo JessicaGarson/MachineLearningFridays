@@ -1,0 +1,73 @@
+Time for some Regular Expressions!
+
+Let's deal with letters, spaces, and characters first:
+
+Here are some you probably already know! Who knows they mean? Who knew they were regex!?
+\n
+\t
+
+Space, newline, tab:
+\s
+\n
+\t
+
+Find one letter at a time:
+\w
+[A-z]
+
+Find any sequence of letters:
+\w+
+
+Find a literal character:
+\",
+
+Find literal characters, in any order:
+[",]
+
+Find capital or lowercase letters only:
+[A-Z]
+[a-z]
+
+Find words starting with a capital letter:
+[A-Z]\w+
+
+Put a restriction on number of letters:
+[A-Z]\w{2}\s
+
+What if you don't want to replace the space? Use Grouping!
+    Group with parentheses:
+    w+(\s)
+    [A-Z]\w{2}(\s)
+
+    Now, catch your group:
+    SomethingNew$1
+
+You can narrow the letters you're searching for, like this:
+[A-Ca-c]
+
+Find a specific word:
+\bHorace\b
+
+Now let's take a look at numbers:
+
+Find one digit at a time:
+\d
+[0-9]
+
+Find any sequence of numbers:
+\d+
+
+Do these regular expressions look familiar?
+We can use these number regular expressions like letters.
+
+Some more advanced concepts...
+Positive Lookaround:
+FERGUSON ST\s+(?=4)
+
+Negative Lookaround:
+FERGUSON ST\s+(?!4)
+
+
+
+
+
